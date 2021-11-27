@@ -13,4 +13,4 @@ dist/
 *.out
 
 dist/config.toml
-config.toml
+*config.toml
